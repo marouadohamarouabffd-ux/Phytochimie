@@ -10,3 +10,4 @@ Semi-synthétiques	Hydromorphone, hydrocodone, héroïne
 Synthétiques	Fentanyl, péthidine, méthadone, propoxyphène
 <img width="573" height="61" alt="image" src="https://github.com/user-attachments/assets/378e4401-6691-4247-b9ab-675141b85a85" />
 
+https://youtu.be/p2R2I0nPt7I
