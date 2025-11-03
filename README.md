@@ -10,4 +10,3 @@ Semi-synthétiques	Hydromorphone, hydrocodone, héroïne
 Synthétiques	Fentanyl, péthidine, méthadone, propoxyphène
 <img width="573" height="61" alt="image" src="https://github.com/user-attachments/assets/378e4401-6691-4247-b9ab-675141b85a85" />
 
-<iframe width="648" height="365" src="https://www.youtube.com/embed/p2R2I0nPt7I" title="Les plantes à alcaloïdes : faut-il en avoir peur?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
